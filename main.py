@@ -1,3 +1,3 @@
 """Test."""
 if __name__ == "__main__":
-    pass
+    x = 1 + 1
