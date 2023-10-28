@@ -1,0 +1,1 @@
+"""sql-flatmap test suite."""

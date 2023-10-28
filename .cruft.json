@@ -1,0 +1,32 @@
+{
+  "template": "https://github.com/radix-ai/poetry-cookiecutter",
+  "commit": "721b2159a1574fe3b707d3e38f7355d008ed2f7e",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "package_name": "sql-flatmap",
+      "package_description": "A python package that performs automatic database uploading from flat objects and a schema mapping using an ORM.",
+      "package_url": "https://github.com/ekehoe32/sql-flatmap",
+      "author_name": "Eric Kehoe",
+      "author_email": "ekeho32@gmail.com",
+      "python_version": "3.11",
+      "docker_image": "python:$PYTHON_VERSION-slim",
+      "development_environment": "strict",
+      "with_conventional_commits": "1",
+      "with_fastapi_api": "0",
+      "with_jupyter_lab": "0",
+      "with_pydantic_typing": "0",
+      "with_sentry_logging": "0",
+      "with_streamlit_app": "0",
+      "with_typer_cli": "0",
+      "continuous_integration": "GitHub",
+      "docstring_style": "Google",
+      "private_package_repository_name": "",
+      "private_package_repository_url": "",
+      "__package_name_kebab_case": "sql-flatmap",
+      "__package_name_snake_case": "sql_flatmap",
+      "_template": "https://github.com/radix-ai/poetry-cookiecutter"
+    }
+  },
+  "directory": null
+}
